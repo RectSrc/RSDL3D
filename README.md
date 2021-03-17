@@ -1,5 +1,1 @@
-# RSDL3D
-A 3D engine for RSDL
-
-# Usage
-To Be Added
+# RSDL3D has been abandoned, and replaced with Relib.
